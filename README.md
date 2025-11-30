@@ -529,7 +529,7 @@ ps -o pid,ppid,stat,command -p PID
 * `help jobs` (bash 내장)
 * `man kill`
 
-### 2) 온라인 문서 / 블로그 (정리할 때 참고한 글)
+### 2) 참고한 문서 출처
 
 * top 명령어 설명(Naver 블로그)
 
@@ -544,15 +544,5 @@ ps -o pid,ppid,stat,command -p PID
 
   * [https://monkeybusiness.tistory.com/626](https://monkeybusiness.tistory.com/626)
 
----
-
-## 변경 로그
-
-| 버전   | 날짜         | 변경 내용                       |
-| ---- | ---------- | --------------------------- |
-| v1.0 | 2025-11-30 | README 기본 구조 및 명령어 설명 최초 작성 |
-| v1.1 | 2025-11-30 | 자주 발생하는 문제 & 해결 방법 섹션 추가    |
-
----
-
+***
 
